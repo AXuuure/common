@@ -4,3 +4,9 @@
 ._*
 .AppleDouble
 .LSOverride
+
+# 本地工具产物与个人笔记：仅存于本地，禁止纳入版本控制、禁止对外发布
+# .qoder-credits 为 Qoder 桌面端 Credits 消耗解析的导出结果
+# .workbuddy 为 WorkBuddy 的记忆与工作笔记目录
+.qoder-credits/
+.workbuddy/
